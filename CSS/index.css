@@ -1,0 +1,44 @@
+.menu{
+    text-align: center;
+    flex-direction: row;
+    color: white;
+    background-color: #444444;
+    list-style-type: none;
+}
+
+body{
+    background-color: #f4f4f4;
+}
+
+.block{
+    background-color:white;
+
+}
+
+h2{
+    text-decoration: double;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+th{
+    background-color: #333333;
+    color: white;
+}
+
+table{
+    margin: auto;
+}
+
+footer{
+    text-align: center;
+    background-color:#333333 ;
+}
+
+.img{
+    margin: auto;
+}
